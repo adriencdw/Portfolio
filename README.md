@@ -20,7 +20,7 @@ This Portfolio is a compilation of all the Data Science, Data Analysis and bioin
 
 <img align="left" width="250" height="150" src="https://github.com/adriencdw/Portfolio/blob/main/thumbnail1.jpg"> **[AI - Image segmentation - Fire detection](https://github.com/adriencdw/FireForest)**
 
-I have utilized a U-net/Resnet framework to identify smoke caused by fire in images captured by a video camera that monitors a forest.
+I have utilized a U-net/Resnet framework to identify smoke caused by fire in images captured by a video camera that monitors a forest. This project was done with the collaboration of another student, 7gates academy, and a reasercher. Video of the presentation is available [here](https://www.youtube.com/watch?v=siM5Gf00ndk&ab_channel=7GateAcademy)
 
 
 
