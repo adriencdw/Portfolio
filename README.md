@@ -1,7 +1,7 @@
 # Bioinformatician/ Data science Portfolio - Adrien Carton 
 This Portfolio is a compilation of all the Data Science, Data Analysis and bioinformatics projects I have done for work, academic, self-learning and hobby purposes. 
 
-- **Email**: [adriencdwgmail.com](adriencdw@gmail.com)
+- **Email**: [adriencdw@gmail.com](adriencdw@gmail.com)
 - **LinkedIn**: [linkedin.com/in/adrien-carton-de-wiart/](https://www.linkedin.com/in/adrien-carton-de-wiart/)
 
 # Quick CV
