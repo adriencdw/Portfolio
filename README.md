@@ -26,7 +26,7 @@ I have utilized a U-net/Resnet framework to identify smoke caused by fire in ima
 
 #  
 
-<img align="left" width="250" height="150" src="https://github.com/adriencdw/Portfolio/blob/main/thumbnail2.png"> **[Graph therory - Epigenetics - CRH](https://github.com/adriencdw/Epigenetics-Pattern-Graph-Theory)**
+<img align="left" width="250" height="150" src="https://github.com/adriencdw/Portfolio/blob/main/thumbnail2.png"> **[Graph theory - Epigenetics - CRH](https://github.com/adriencdw/Epigenetics-Pattern-Graph-Theory)**
 
 Cis-Regulatory Hubs (CRHs) are networks of DNA code that regulates the expression of genes, the goal was to find the CRHs that are conserved through different cell lines with the help of Graph Theory. This was done in collaboration with hackaton coders and a PhD student.
 
